@@ -6,11 +6,11 @@ Welcome! This is a budgeting app I built. It is able to track your income and ex
 
 Here is the blank page.
 
-![React 1](/budgeting_app/BalanceTrackerApp/image1.PNG)
+![React 1](/budgeting_app/BalanceTrackerApp/image1.png)
 
 
 Sample Incomes and Expenses
 
-![React 2](/budgeting_app/BalanceTrackerApp/image2.PNG)
+![React 2](/budgeting_app/BalanceTrackerApp/image2.png)
 
 
